@@ -1,7 +1,11 @@
 import React from 'react';
 
 const App = () => {
-  return <>Ezrayter</>;
+  return (
+    <div className="container">
+      <main className="content"></main>
+    </div>
+  );
 };
 
 export default App;

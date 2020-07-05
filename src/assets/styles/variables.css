@@ -1,0 +1,10 @@
+:root {
+  /* Color name by hex: http://chir.ag/projects/name-that-color */
+  --color-white: #fff;
+  --color-hawkes-blue: #d4eafd;
+  --color-waikawa-gray: #5a7494;
+
+  --color-container-bg: var(--color-hawkes-blue);
+  --color-content-bg: var(--color-white);
+  --color-content-shadow: var(--color-waikawa-gray);
+}

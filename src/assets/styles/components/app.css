@@ -1,0 +1,16 @@
+.container {
+  width: 100wh;
+  height: 100vh;
+  background-color: var(--color-container-bg);
+}
+
+.content {
+  width: 400px;
+  height: 300px;
+
+  margin: 0 auto;
+  padding: 35px;
+  border-radius: 8px;
+  background-color: var(--color-content-bg);
+  box-shadow: 0 30px 60px 0 var(--color-content-shadow);
+}
