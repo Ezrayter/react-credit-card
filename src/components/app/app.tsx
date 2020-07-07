@@ -4,10 +4,12 @@ import CardForm from 'components/card-form';
 
 const App = () => {
   return (
-    <div className="container">
-      <main className="content">
-        <CardForm />
-      </main>
+    <div className="app">
+      <div className="container">
+        <main className="content">
+          <CardForm />
+        </main>
+      </div>
     </div>
   );
 };

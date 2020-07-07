@@ -6,11 +6,4 @@
   --color-biscay: #1a3b5d;
   --color-geyser: #ced6e0;
   --color-dodger-blue: #3d9cff;
-
-  --color-container-bg: var(--color-hawkes-blue);
-  --color-content-bg: var(--color-white);
-  --color-content-shadow: var(--color-waikawa-gray);
-  --color-text: var(--color-biscay);
-  --color-input-border: var(--color-geyser);
-  --color-input-border-focus: var(--color-dodger-blue);
 }

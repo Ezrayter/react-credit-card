@@ -1,4 +1,9 @@
 .card-form {
+  --color-form-text: var(--color-biscay);
+  --color-input-border: var(--color-geyser);
+  --color-input-border-focus: var(--color-dodger-blue);
+
+  color: var(--color-form-text);
 }
 
 .card-form__label {
